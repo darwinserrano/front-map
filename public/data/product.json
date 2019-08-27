@@ -1,0 +1,302 @@
+{
+  "uniqueID": "11657331",
+  "partNumber": "2000372107077P",
+  "name": "ACER NITRO 5 AN515-42-R4KY / AMD RYZEN 5 / 16GB / 2TB + 128 SSD / AMD RADEON RX 560X / 15.6\"",
+  "locals": {
+    "outOfStockList": {
+      "blacklist": false
+    },
+    "unavailableList": {
+      "blacklist": false
+    },
+    "promotion": {
+      "stock": false,
+      "badge": "//home.ripley.cl/promo-badges/cyber.png"
+    }
+  },
+  "fullImage": "//home.ripley.cl/store/Attachment/WOP/D113/2000372107077/2000372107077_2.jpg",
+  "images": [
+    "//home.ripley.cl/store/Attachment/WOP/D113/2000372107077/2000372107077_2.jpg",
+    "//home.ripley.cl/store/Attachment/WOP/D113/2000372107077/2000372107077-1.jpg",
+    "//home.ripley.cl/store/Attachment/WOP/D113/2000372107077/2000372107077-2.jpg",
+    "//home.ripley.cl/store/Attachment/WOP/D113/2000372107077/2000372107077-3.jpg",
+    "//home.ripley.cl/store/Attachment/WOP/D113/2000372107077/2000372107077-4.jpg",
+    "//home.ripley.cl/store/Attachment/WOP/D113/2000372107077/2000372107077-5.jpg"
+  ],
+  "prices": {
+    "offerPrice": 599990,
+    "listPrice": 789990,
+    "cardPrice": 549990,
+    "discount": 240000,
+    "discountPercentage": 30,
+    "ripleyPuntos": 5500,
+    "$$cache": {
+      "cached": true,
+      "created": 1564346998687
+    },
+    "formattedOfferPrice": "$599.990",
+    "formattedListPrice": "$789.990",
+    "formattedCardPrice": "$549.990",
+    "formattedDiscount": "$240.000"
+  },
+  "shortDescription": "Notebook AMD Ryzen™ 5 16GB RAM 2TB + 128GB Disco Duro 15.6\"",
+  "longDescription": "<h2>NOTEBOOK ACER NITRO 5 AN515-42-R4KY</h2><p><object data=\"https://www.netnow.cl/site/review/68/acer-nitro-5-con-ryzen-5-an515-42-r4ky-ripley-37210707-?nohead=true\" width=\"100%\" height=\"5800\"><embed src=\"https://www.netnow.cl/site/review/68/acer-nitro-5-con-ryzen-5-an515-42-r4ky-ripley-37210707-?nohead=true\" width=\"100%\" height=\"5800\"> </object></p><br><a href=\"/ripley-chile/minisitios/info-ripley/guias-de-compra/computadores.html\" target=\"_blank\"><div id=\"botonguiaComputacion\"></div></a>",
+  "definingAttributes": [],
+  "attributes": [
+    {
+      "displayable": true,
+      "name": "Marca",
+      "usage": "descriptive",
+      "value": "ACER"
+    },
+    {
+      "displayable": true,
+      "id": "7000000000000017316",
+      "identifier": "tipo_procesador",
+      "name": "Tipo Procesador",
+      "usage": "descriptive",
+      "value": "AMD Ryzen™ 5"
+    },
+    {
+      "displayable": true,
+      "id": "7000000000000019051",
+      "identifier": "accesibilidad",
+      "name": "Conectividad",
+      "usage": "descriptive",
+      "value": "Wi-Fi / Bluetooth / LAN"
+    },
+    {
+      "displayable": true,
+      "id": "7000000000000017227",
+      "identifier": "numero_puertos_usb",
+      "name": "Número puertos USB 2.0 / 3.0",
+      "usage": "descriptive",
+      "value": "4"
+    },
+    {
+      "displayable": true,
+      "id": "7000000000000017294",
+      "identifier": "tipo",
+      "name": "Tipo",
+      "usage": "descriptive",
+      "value": "Notebook Gamer"
+    },
+    {
+      "displayable": true,
+      "id": "7000000000000017275",
+      "identifier": "sist_operativo_fac",
+      "name": "Sistema Operativo",
+      "usage": "descriptive",
+      "value": "Windows 10"
+    },
+    {
+      "displayable": true,
+      "id": "7000000000000017248",
+      "identifier": "mod_procesador",
+      "name": "Modelo Procesador",
+      "usage": "descriptive",
+      "value": "AMD Ryzen 5 2500U"
+    },
+    {
+      "displayable": true,
+      "id": "7000000000000017329",
+      "identifier": "velocidad_procesador_ghz",
+      "name": "Velocidad Procesador (GHz)",
+      "usage": "descriptive",
+      "value": "2.0"
+    },
+    {
+      "displayable": true,
+      "id": "7000000000000017212",
+      "identifier": "memoria_ram",
+      "name": "Memoria Ram",
+      "usage": "descriptive",
+      "value": "16GB"
+    },
+    {
+      "displayable": true,
+      "id": "7000000000000017307",
+      "identifier": "tipo_de_memoria_ram",
+      "name": "Tipo de Memoria Ram",
+      "usage": "descriptive",
+      "value": "DDR4 2400"
+    },
+    {
+      "displayable": true,
+      "id": "7000000000000017091",
+      "identifier": "capacidad_disco_duro",
+      "name": "Capacidad Disco Duro",
+      "usage": "descriptive",
+      "value": "2 TB + 128 GB SSD"
+    },
+    {
+      "displayable": true,
+      "id": "7000000000000017301",
+      "identifier": "tipo_de_disco_duro",
+      "name": "Tipo de Disco Duro",
+      "usage": "descriptive",
+      "value": "5400 RPM"
+    },
+    {
+      "displayable": true,
+      "id": "7000000000000017233",
+      "identifier": "pantalla_pulgadas",
+      "name": "Pantalla (pulgadas)",
+      "usage": "descriptive",
+      "value": "15,6"
+    },
+    {
+      "displayable": true,
+      "id": "7000000000000017289",
+      "identifier": "tarjeta_de_video",
+      "name": "Tarjeta de Video",
+      "usage": "descriptive",
+      "value": "Radeon RX 560X"
+    },
+    {
+      "displayable": true,
+      "id": "7000000000000107051",
+      "identifier": "unidad_optica",
+      "name": "Unidad Óptica",
+      "usage": "descriptive",
+      "value": "No"
+    },
+    {
+      "displayable": true,
+      "id": "7000000000000299551",
+      "identifier": "color_80",
+      "name": "Color",
+      "usage": "descriptive",
+      "value": "Negro"
+    },
+    {
+      "displayable": true,
+      "id": "7000000000000017192",
+      "identifier": "lector_tarjeta_memoria",
+      "name": "Lector Tarjeta de Memoria",
+      "usage": "descriptive",
+      "value": "Sí"
+    },
+    {
+      "displayable": true,
+      "id": "7000000000000017224",
+      "identifier": "numero_puertos_hdmi",
+      "name": "Número puertos HDMI",
+      "usage": "descriptive",
+      "value": "Sí"
+    },
+    {
+      "displayable": true,
+      "id": "7000000000000017072",
+      "identifier": "ancho_cm",
+      "name": "Ancho (cm)",
+      "usage": "descriptive",
+      "value": "39"
+    },
+    {
+      "displayable": true,
+      "id": "7000000000000017063",
+      "identifier": "alto_cm",
+      "name": "Alto (cm)",
+      "usage": "descriptive",
+      "value": "2.6"
+    },
+    {
+      "displayable": true,
+      "id": "7000000000000017250",
+      "identifier": "profundidad_cm",
+      "name": "Profundidad (cm)",
+      "usage": "descriptive",
+      "value": "26.3"
+    },
+    {
+      "displayable": true,
+      "id": "7000000000000017238",
+      "identifier": "peso_kg",
+      "name": "Peso (kg)",
+      "usage": "descriptive",
+      "value": "2.7"
+    }
+  ],
+  "shipping": {
+    "rTienda": true,
+    "dDomicilio": true,
+    "rCercano": false,
+    "cashOnDelivery": false
+  },
+  "productString": "acer-nitro-5-an515-42-r4ky-amd-ryzen-5-16gb-2tb-128-ssd-amd-radeon-rx-560x-156-2000372107077p",
+  "SKUs": [
+    {
+      "Price": [
+        {
+          "SKUPriceDescription": "I",
+          "SKUPriceValue": "599990.0",
+          "SKUPriceUsage": "Offer"
+        }
+      ],
+      "SKUUniqueID": "11657332",
+      "partNumber": "2000372107077",
+      "xCatEntryQuantity": 1625,
+      "ineligible": false,
+      "Attributes": [],
+      "isMainProduct": true
+    }
+  ],
+  "isMarketplaceProduct": false,
+  "marketplace": {},
+  "warranties": [
+    {
+      "shortDescription": "Garantías de Reparaciones 1 Año",
+      "Price": [
+        {
+          "priceValue": 74990,
+          "priceUsage": "Offer",
+          "formattedPriceValue": "$74.990"
+        }
+      ],
+      "type": "EXTRAGARANTIA",
+      "name": "EG Extiende tu Garantía 1 Año                                                                                                 ",
+      "quantity": "1.0",
+      "partNumber": "2000342689886",
+      "thumbnail": "/wcsstore/ripleycl_CAT_AS/Attachment/WOP/D113/2000342689886/2000342689886.jpg",
+      "uniqueID": "571604"
+    },
+    {
+      "shortDescription": "Garantías de Reparaciones 2 Años",
+      "Price": [
+        {
+          "priceValue": 99990,
+          "priceUsage": "Offer",
+          "formattedPriceValue": "$99.990"
+        }
+      ],
+      "type": "EXTRAGARANTIA",
+      "name": "EG Extiende tu Garantía 2 Años                                                                                                ",
+      "quantity": "1.0",
+      "partNumber": "2000342690028",
+      "thumbnail": "/wcsstore/ripleycl_CAT_AS/Attachment/WOP/D113/2000342690028/2000342690028.jpg",
+      "uniqueID": "571620"
+    }
+  ],
+  "url": "/acer-nitro-5-an515-42-r4ky-amd-ryzen-5-16gb-2tb-128-ssd-amd-radeon-rx-560x-156-2000372107077p",
+  "thumbnailImage": "//home.ripley.cl/store/Attachment/WOP/D113/2000372107077/2000372107077_2.jpg",
+  "simple": {
+    "lists": {
+      "outOfStockList": {
+        "blacklist": false
+      },
+      "unavailableList": {
+        "blacklist": false
+      },
+      "promotion": {
+        "stock": false,
+        "badge": "//home.ripley.cl/promo-badges/cyber.png"
+      }
+    },
+    "isCyber": true,
+    "isUnavailable": false,
+    "isOutOfStock": false,
+    "isMarketplaceProduct": false
+  },
+  "single": true
+}
